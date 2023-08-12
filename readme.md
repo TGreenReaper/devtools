@@ -2,9 +2,11 @@
 <h4> By Green Reaper</h4>
 
 <h2> Use </h2>
-<h3> Copy ⬇️
+<h3> Go To⬇️
 <ul>
-<li><p>loadstring(game:HttpGet('https://raw.githubusercontent.com/TGreenReaper/devtools/main/Dev%20Tools.lua')()</p></li>
+<li><a href="https://raw.githubusercontent.com/TGreenReaper/devtools/main/script.lua"> Script</a></li>
+  <br>
+  <li> Copy the whole script</li>
   <br>
   <li>Put it in a Executor of Choice</li>
 </ul>
