@@ -4,7 +4,7 @@
 <h2> Use </h2>
 <h3> Copy ⬇️
 <ul>
-<li>loadstring(game:HttpGet('https://raw.githubusercontent.com/TGreenReaper/devtools/main/Dev%20Tools.lua')()</li>
+<li><p>loadstring(game:HttpGet('https://raw.githubusercontent.com/TGreenReaper/devtools/main/Dev%20Tools.lua')()</p></li>
   <br>
   <li>Put it in a Executor of Choice</li>
 </ul>
